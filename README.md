@@ -1,6 +1,8 @@
 # Caicai Spring AI Exploring Project Getting Started
 
-A Spring AI Exploring Project[Caicai]. Functions include:
+**ACAI**
+
+A [Spring AI](https://spring.io/projects/spring-ai) Exploring Project[Caicai]. Functions include:
 
 1) Support Ollama Chat, using the Spring AI Chat SDK.
 2) Support RAG(Retrieval Augmented Generation), able to retrieve and generate content based on user queries and input
@@ -54,7 +56,7 @@ ollama rum nomic-embed-text
 ./gradlew bootRun
 ```
 
-## 4、Retrieval Augmented Generation([RGA](https://docs.spring.io/spring-ai/reference/concepts.html#concept-rag))
+## 4、Retrieval Augmented Generation([RAG](https://docs.spring.io/spring-ai/reference/concepts.html#concept-rag))
 
 ### 4.1 Uploading documents
 
